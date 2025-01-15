@@ -27,7 +27,7 @@ Midjourney：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título |  Uma figura profissional no topo de uma montanha, olhando para um horizonte iluminado por raios de sol. O cenário transmite inspiração, liderança e superação, com um design limpo e cores corporativas suaves (azul, branco e dourado) |
+| título | A professional figure on top of a mountain, looking out over a horizon illuminated by sunbeams. The scene conveys inspiration, leadership and overcoming, with a clean design and soft corporate colors (blue, white and gold) |
 
 ## ✨ Features
 
